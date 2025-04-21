@@ -1,8 +1,8 @@
 
 
-# 🧠 AI & Data Science Research Portfolio
 
-## 📌 Summary
+
+## 📌 About Me
 
 Welcome to my research-focused GitHub profile!  
 I specialize in the intersection of **Artificial Intelligence**, **Data Science**, **Neuroscience**, **Cybersecurity**, and **Finance**. My work is centered on solving real-world challenges through **interdisciplinary research** and **ethical innovation**.
