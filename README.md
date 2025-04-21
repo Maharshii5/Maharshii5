@@ -43,7 +43,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 ### 🔬 Preprints
 
 2. **Quantum Social Engineering: A New Threat Paradigm in Cybersecurity**  
-   _TechRxiv, Apr 2025_  
+   _TechRxiv, Mar 2025_  
    [Preprint](https://doi.org/10.36227/techrxiv.174363042.22068772/v1)
 
 3. **Neuro-Symbolic Optimization for Explainable AI-Driven Decision-Making in Complex Systems**  
@@ -51,11 +51,11 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
    [Preprint](https://doi.org/10.36227/techrxiv.174431322.29730206/v1)
 
 4. **The Intersection of Blockchain and AI in B2B Embedded Finance**  
-   _TechRxiv, Jan 2025_  
+   _TechRxiv, Mar 2025_  
    [Preprint](https://doi.org/10.36227/techrxiv.174431344.40887416/v1)
 
 5. **Neuroscience of Consumer Gamification: The Role of Dopamine in Customer Loyalty**  
-   _OSF, 2025_  
+   _OSF, Jan 2025_  
    [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5105373)
 
 6. **Unveiling the Mind: A Survey on Stress Detection Using ML/DL**  
@@ -63,7 +63,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
    [Preprint](https://osf.io/w8a3y_v1/)
 
 7. **A Comprehensive Review on Heart Disease Detection Using ML/DL Techniques**  
-   _TechRxiv, 2025_  
+   _TechRxiv, Apr 2025_  
    [Preprint](https://doi.org/10.36227/techrxiv.174494889.99688489/v1)
 
 ---
