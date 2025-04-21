@@ -21,7 +21,13 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 - 🧠 **AI for Stress Detection** – Developed ML models to identify stress from biosignals and text inputs  
 - 🔐 **Quantum Threat Detection Framework** – Proposed a new framework intersecting AI and cybersecurity  
 - 💰 **AI x Blockchain in FinTech** – Wrote an in-depth review on embedded finance and intelligent contracts  
-- 🧬 **Gamification & Neuroscience** – Researched dopamine’s role in user engagement for B2C platforms  
+- 🧬 **Gamification & Neuroscience** – Researched dopamine’s role in user engagement for B2C platforms
+- 🧾 **NLP for Abuse Detection**  - Built and benchmarked several NLP models for classifying abusive content online. Published findings in a peer-reviewed 
+ journal.  
+  📄 *"A Study on the Performance of NLP-Based Models in Abusive Content Classification"*, IJPREMS, Jan 2025  
+  [Read it here](https://www.doi.org/10.58257/IJPREMS38262)
+
+➡️ Most of these are backed by preprints or published work. I'm always open to new ideas and collaborations!
 
 ---
 
