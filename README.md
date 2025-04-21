@@ -104,11 +104,10 @@ It includes both **peer-reviewed publications** and **open preprints** hosted on
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 🧠 [Google Scholar](https://scholar.google.com/citations?user=YOUR-ID)
-- 🧾 [Resume / Portfolio Website](https://your-portfolio.com)
-- 📫 Email: youremail@example.com
+- 🧠 [Google Scholar](https://scholar.google.com/citations?user=DSbcK-kAAAAJ&hl=en)
+- 🧾 [Resume / Portfolio Website](https://maharshipatel.lovable.app/)
+- 📫 Email: 
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay  
-> Let's build a better world through intelligent systems. 🚀
+
