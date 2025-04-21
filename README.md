@@ -1,31 +1,32 @@
 
 
-## 👋 About Me
-
-Hi there! I'm an aspiring **AI Researcher & Data Scientist** with a passion for solving real-world problems through intelligent systems. I specialize in interdisciplinary research across **Artificial Intelligence, Neuroscience, Cybersecurity, Embedded Finance**, and **Digital Wellbeing**. My goal is to develop explainable, ethical, and impactful AI solutions for complex domains.
-
-I'm also actively pursuing certifications, publishing papers, and building tools at the intersection of machine learning, decision science, and human behavior.
-
----
+# 🧠 AI & Data Science Research Portfolio
 
 ## 📌 Summary
 
-This repository showcases my original research contributions in:
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧬 Neuroscience & Cognitive Systems
-- 🔐 Cybersecurity
-- 💰 Finance (B2B Embedded, Behavioral)
-- 💖 Health & Social Good
+Welcome to my research-focused GitHub profile!  
+I specialize in the intersection of **Artificial Intelligence**, **Data Science**, **Neuroscience**, **Cybersecurity**, and **Finance**. My work is centered on solving real-world challenges through **interdisciplinary research** and **ethical innovation**.
 
-It includes both **peer-reviewed publications** and **open preprints** hosted on platforms like TechRxiv and OSF. Each project reflects a commitment to **transparency**, **rigorous experimentation**, and **interdisciplinary collaboration**.
+This repository serves as a curated showcase of my:
+- ✅ Peer-reviewed publications  
+- 📝 Preprints on platforms like TechRxiv and OSF  
+- 📊 Online certifications from top institutions  
+- 📚 Collaborative projects and open-source contributions  
+
+I believe in **transparency**, **open collaboration**, and **AI for social good**.
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tech Stack
 
-- **Languages:** Python  
-- **Libraries:** `scikit-learn`, `PyTorch`, `TensorFlow`, `Transformers`, `spaCy`, `NLTK`, `NetworkX`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`  
-- **Tools:** Overleaf, Jupyter Notebooks, Zotero, Mendeley
+- **Languages:**  
+  `Python`, `TypeScript`, `JavaScript`
+
+- **Libraries & Frameworks:**  
+  `scikit-learn`, `PyTorch`, `TensorFlow`, `Transformers`, `spaCy`, `NLTK`, `NetworkX`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Streamlit`
+
+- **Tools & Platforms:**  
+  `Jupyter Notebooks`, `Overleaf`, `Zotero`, `Mendeley`, `Docker`, `AWS`, `Google Cloud Platform (GCP)`
 
 ---
 
@@ -34,7 +35,7 @@ It includes both **peer-reviewed publications** and **open preprints** hosted on
 ### 🟢 Published
 1. **A Study on the Performance of NLP-Based Models in Abusive Content Classification**  
    _International Journal of Progressive Research in Engineering and Management, Jan 2025_  
-   [📄 PDF](https://www.doi.org/10.58257/IJPREMS38262)
+   [PDF](https://www.doi.org/10.58257/IJPREMS38262)
 
 ---
 
@@ -42,45 +43,42 @@ It includes both **peer-reviewed publications** and **open preprints** hosted on
 
 2. **Quantum Social Engineering: A New Threat Paradigm in Cybersecurity**  
    _TechRxiv, Apr 2025_  
-   [📄 Read Preprint](https://doi.org/10.36227/techrxiv.174363042.22068772/v1)
+   [Preprint](https://doi.org/10.36227/techrxiv.174363042.22068772/v1)
 
 3. **Neuro-Symbolic Optimization for Explainable AI-Driven Decision-Making in Complex Systems**  
    _TechRxiv, Apr 2025_  
-   [📄 Read Preprint](https://doi.org/10.36227/techrxiv.174431322.29730206/v1)
+   [Preprint](https://doi.org/10.36227/techrxiv.174431322.29730206/v1)
 
 4. **The Intersection of Blockchain and AI in B2B Embedded Finance**  
    _TechRxiv, Jan 2025_  
-   [📄 Read Preprint](https://doi.org/10.36227/techrxiv.174431344.40887416/v1)
+   [Preprint](https://doi.org/10.36227/techrxiv.174431344.40887416/v1)
 
 5. **Neuroscience of Consumer Gamification: The Role of Dopamine in Customer Loyalty**  
    _OSF, 2025_  
-   [📄 Read Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5105373)
+   [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5105373)
 
 6. **Unveiling the Mind: A Survey on Stress Detection Using ML/DL**  
    _OSF, 2025_  
-   [📄 Read Preprint](https://osf.io/w8a3y_v1/)
+   [Preprint](https://osf.io/w8a3y_v1/)
 
 7. **A Comprehensive Review on Heart Disease Detection Using ML/DL Techniques**  
    _TechRxiv, 2025_  
-   [📄 Read Preprint](https://doi.org/10.36227/techrxiv.174494889.99688489/v1)
+   [Preprint](https://doi.org/10.36227/techrxiv.174494889.99688489/v1)
 
 ---
 
 ## 📜 Certifications & Online Courses
 
 ### 🛡️ Cybersecurity
-- [Google – Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/CEHENRNCPGTZ)
-- [Google – Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/CEHENRNCPGTZ)
+- [Foundations of Cybersecurity – Google](https://www.coursera.org/account/accomplishments/certificate/CEHENRNCPGTZ)  
+- [Automate Cybersecurity Tasks with Python – Google](https://www.coursera.org/account/accomplishments/certificate/CEHENRNCPGTZ)
 
 ### 🤖 Artificial Intelligence & Deep Learning
-- [IBM AI Foundations for Business Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MD2J2FJ2ID1L)
-  - Introduction to Artificial Intelligence (AI)
-  - What is Data Science?
-  - The AI Ladder: A Framework for Deploying AI in your Enterprise
-- [AI For Everyone – DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/B7662S6TIOWL)
-- [Fundamentals of Reinforcement Learning – University of Alberta](https://www.coursera.org/account/accomplishments/certificate/PNRD2S7A64YH)
-- [Neural Networks and Deep Learning – DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/DCW8TGUV9DQS)
-- [Improving Deep Neural Networks – DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/A5P8ARITV3GU)
+- [IBM AI Foundations for Business Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MD2J2FJ2ID1L)  
+- [AI For Everyone – DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/B7662S6TIOWL)  
+- [Fundamentals of Reinforcement Learning – University of Alberta](https://www.coursera.org/account/accomplishments/certificate/PNRD2S7A64YH)  
+- [Neural Networks and Deep Learning – DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/DCW8TGUV9DQS)  
+- [Improving Deep Neural Networks – DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/A5P8ARITV3GU)  
 - [Structuring Machine Learning Projects – DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/WLJVZ0EY3T84)
 
 ### 📊 Data Science
@@ -95,11 +93,22 @@ It includes both **peer-reviewed publications** and **open preprints** hosted on
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
+
+## 📬 Connect With Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+- 📫 Email: yourname@example.com  
+- 💬 Open to collaborations in research, data science, and AI for good
+
+---
+
+_Thank you for visiting my GitHub! Let's build the future with responsible AI._ 🚀
+
 
 ## 🌐 Let's Connect
 
