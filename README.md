@@ -90,7 +90,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
 - 🧠 [Google Scholar](https://scholar.google.com/citations?user=DSbcK-kAAAAJ&hl=en)
-- 🧾 [Resume / Portfolio Website](https://maharshipatel.lovable.app/)
+- 🧾 [Resume / Portfolio Website]
 - 📫 Email: 
 
 ---
