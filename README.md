@@ -99,16 +99,6 @@ I believe in **transparency**, **open collaboration**, and **AI for social good*
 
 ---
 
-## 📬 Connect With Me
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-- 📫 Email: yourname@example.com  
-- 💬 Open to collaborations in research, data science, and AI for good
-
----
-
-_Thank you for visiting my GitHub! Let's build the future with responsible AI._ 🚀
-
 
 ## 🌐 Let's Connect
 
@@ -118,5 +108,5 @@ _Thank you for visiting my GitHub! Let's build the future with responsible AI._ 
 - 📫 Email: 
 
 ---
-
+_Thank you for visiting my GitHub! Let's build the future with responsible AI._ 🚀
 
