@@ -1,32 +1,27 @@
+# 👋 Hi, I'm Maharshi Patel
 
+I'm a passionate **AI and Data Science enthusiast** with a strong foundation in Python, machine learning, and cloud technologies. I enjoy building smart systems, solving real-world problems with data, and exploring the intersection of **technology, business, and society**.
 
-
-
-## 📌 About Me
-
-Welcome to my research-focused GitHub profile!  
-I specialize in the intersection of **Artificial Intelligence**, **Data Science**, **Neuroscience**, and **Finance**. My work is centered on solving real-world challenges through **interdisciplinary research** and **ethical innovation**.
-
-This repository serves as a curated showcase of my:
-- ✅ Peer-reviewed publications  
-- 📝 Preprints on platforms like TechRxiv and OSF  
-- 📊 Online certifications from top institutions  
-- 📚 Collaborative projects and open-source contributions  
-
-I believe in **transparency**, **open collaboration**, and **AI for social good**.
+- 🎓 Final-year Computer Science student (CGPA: 9.74/10)
+- 🤖 Interests: Data Science, Applied AI, Cloud Systems, Decision Intelligence
+- 🌐 Currently exploring: Explainable AI, Neuro-symbolic Reasoning, AI in Finance & Cybersecurity
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:**  
-  `Python`, `TypeScript`, `JavaScript`
+- **Languages:** Python, TypeScript, JavaScript  
+- **Libraries & Frameworks:** scikit-learn, PyTorch, TensorFlow, Transformers, spaCy, NLTK, NetworkX, NumPy, Pandas, Matplotlib, Seaborn, Streamlit  
+- **Tools & Platforms:** Jupyter, Docker, AWS, Google Cloud, Overleaf
 
-- **Libraries & Frameworks:**  
-  `scikit-learn`, `PyTorch`, `TensorFlow`, `Transformers`, `spaCy`, `NLTK`, `NetworkX`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Streamlit`
+---
 
-- **Tools & Platforms:**  
-  `Jupyter Notebooks`, `Overleaf`, `Zotero`, `Mendeley`, `Docker`, `AWS`, `Google Cloud Platform (GCP)`
+## 📌 Featured Projects & Work
+
+- 🧠 **AI for Stress Detection** – Developed ML models to identify stress from biosignals and text inputs  
+- 🔐 **Quantum Threat Detection Framework** – Proposed a new framework intersecting AI and cybersecurity  
+- 💰 **AI x Blockchain in FinTech** – Wrote an in-depth review on embedded finance and intelligent contracts  
+- 🧬 **Gamification & Neuroscience** – Researched dopamine’s role in user engagement for B2C platforms  
 
 ---
 
