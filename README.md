@@ -90,15 +90,6 @@ I believe in **transparency**, **open collaboration**, and **AI for social good*
 
 ---
 
-//## 📈 GitHub Stats
-
-//<p align="center">
- // <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180px"/>
-  //<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="180px"/>
-//</p>
-
----
-
 
 ## 🌐 Let's Connect
 
