@@ -10,9 +10,9 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, TypeScript, JavaScript  
+- **Languages:** Python, TypeScript, JavaScript, SQL  
 - **Libraries & Frameworks:** scikit-learn, PyTorch, TensorFlow, Transformers, spaCy, NLTK, NetworkX, NumPy, Pandas, Matplotlib, Seaborn, Streamlit  
-- **Tools & Platforms:** Jupyter, Docker, AWS, Google Cloud, Overleaf
+- **Tools & Platforms:** Snowflake, Jupyter, Docker, AWS, Google Cloud, Overleaf
 
 ---
 
