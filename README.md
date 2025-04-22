@@ -18,12 +18,11 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 
 ## 📌 Featured Projects & Work
 
-- 🧠 **AI for Stress Detection** – Developed ML models to identify stress from biosignals and text inputs  
-- 🔐 **Quantum Threat Detection Framework** – Proposed a new framework intersecting AI and cybersecurity  
-- 💰 **AI x Blockchain in FinTech** – Wrote an in-depth review on embedded finance and intelligent contracts  
-- 🧬 **Gamification & Neuroscience** – Researched dopamine’s role in user engagement for B2C platforms
-- 🧾 **NLP for Abuse Detection**  - Built and benchmarked several NLP models for classifying abusive content online. Published findings in a peer-reviewed 
- journal.  
+- 🧠 **AI for Stress Detection** - Built ML/DL models to detect stress from biosignals (ECG, EDA) and text inputs. Published a comprehensive survey on multimodal stress detection techniques.
+- 🔐 **Quantum Threat Detection Framework** - Proposed an AI-based framework to counter quantum-era social engineering threats.Explores cybersecurity risks at the intersection of AI and quantum computing.
+- 💰 **AI x Blockchain in FinTech** - Reviewed how AI integrates with blockchain for B2B embedded finance. Covered intelligent contracts, fraud detection, and decentralized scoring systems.
+- 🧬 **Gamification & Neuroscience** - Researched dopamine’s influence on user loyalty in gamified platforms. Proposed neuro-symbolic AI strategies for long-term engagement modeling.
+- 🧾 **NLP for Abuse Detection** - Developed and benchmarked NLP models for toxic content classification. Published results in a peer-reviewed journal with significant performance gains.
   📄 *"A Study on the Performance of NLP-Based Models in Abusive Content Classification"*, IJPREMS, Jan 2025  
   [Read it here](https://www.doi.org/10.58257/IJPREMS38262)
 - 🌞 **Sunspot Detection Using Deep Learning** – Used CNN architectures to detect and track sunspot regions from solar imagery datasets to support solar weather predictions
