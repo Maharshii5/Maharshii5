@@ -119,7 +119,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 - [Structuring Machine Learning Projects – DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/WLJVZ0EY3T84)
 
 ### 📊 Data Science
-- **IBM Data Science Professional Certificate (12-course specialization)**  
+- **IBM Data Science Professional Certificate (12-course specialization)** [](https://coursera.org/verify/specialization/MD2J2FJ2ID1L).
   - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/B52F8CJKE09O)  
   - [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/SQT4BS1XU3JG)  
   - [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/37626SZTSBHB)  
