@@ -126,6 +126,9 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
   - [Python for Data Science, AI & Development](https://coursera.org/verify/6D344GLRMMOM)
 
 ---
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maharshii5&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 🌐 Let's Connect
