@@ -104,7 +104,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 
 ---
 
-## 📜 Certifications & Online Courses
+## 📜 My Certifications & Online Courses
 
 ### 🛡️ Cybersecurity
 - [Foundations of Cybersecurity – Google](https://www.coursera.org/account/accomplishments/certificate/CEHENRNCPGTZ)  
