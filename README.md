@@ -124,6 +124,9 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
   - [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/SQT4BS1XU3JG)  
   - [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/37626SZTSBHB)  
   - [Python for Data Science, AI & Development](https://coursera.org/verify/6D344GLRMMOM)
+ 
+### 📈 Operations Research & Optimization
+- [Operations Research (2): Optimization Algorithms – National Taiwan University](https://coursera.org/verify/MIQS96YOBYYY)
 
 ---
 ## 📈 GitHub Stats
