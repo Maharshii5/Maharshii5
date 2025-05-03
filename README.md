@@ -101,7 +101,8 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 7. **A Comprehensive Review on Heart Disease Detection Using ML/DL Techniques**  
    _TechRxiv, Apr 2025_  
    [Preprint](https://doi.org/10.36227/techrxiv.174494889.99688489/v1)
-
+   
+- 🧠 [Google Scholar](https://scholar.google.com/citations?user=DSbcK-kAAAAJ&hl=en)
 ---
 
 ## 📜 My Certifications & Online Courses
@@ -137,7 +138,6 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 🧠 [Google Scholar](https://scholar.google.com/citations?user=DSbcK-kAAAAJ&hl=en)
 - 🧾 [Resume / Portfolio Website]
 - 📫 Email: 
 
