@@ -129,6 +129,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 ### 📈 Operations Research & Optimization
 - [Operations Research (1): Models and Applications – National Taiwan University](https://coursera.org/verify/8UPU69JSV6H2)
 - [Operations Research (2): Optimization Algorithms – National Taiwan University](https://coursera.org/verify/MIQS96YOBYYY)
+- [Operations Research (3): Theory – National Taiwan University](https://coursera.org/verify/EFX3R1QUEMDA)
 
 
 ---
