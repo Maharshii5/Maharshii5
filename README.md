@@ -74,7 +74,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
    _International Journal of Progressive Research in Engineering and Management, Jan 2025_  
    [PDF](https://www.doi.org/10.58257/IJPREMS38262)
    
-3. **Unveiling the Mind: A Survey on Stress Detection Using Machine Learning and Deep Learning Techniques**  
+2. **Unveiling the Mind: A Survey on Stress Detection Using Machine Learning and Deep Learning Techniques**  
    _International Journal of Pharmaceutical Sciences, May 2025_  
    [PDF](https://www.doi.org/10.5281/zenodo.15421033)
 ---
