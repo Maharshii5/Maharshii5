@@ -54,6 +54,8 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 ## 📌 Featured Projects & Work
 
 - 🧠 **AI for Stress Detection** - Built ML/DL models to detect stress from biosignals (ECG, EDA) and text inputs. Published a comprehensive survey on multimodal stress detection techniques.
+  📄 *"Unveiling the Mind: A Survey on Stress Detection Using Machine Learning and Deep Learning Techniques"*, International Journal of Pharmaceutical Sciences, May 2025  [Read it here](https://www.doi.org/10.5281/zenodo.15421033)
+   [PDF](https://www.doi.org/10.5281/zenodo.15421033)
 - 🔐 **Quantum Threat Detection Framework** - Proposed an AI-based framework to counter quantum-era social engineering threats.Explores cybersecurity risks at the intersection of AI and quantum computing.
 - 💰 **AI x Blockchain in FinTech** - Reviewed how AI integrates with blockchain for B2B embedded finance. Covered intelligent contracts, fraud detection, and decentralized scoring systems.
 - 🧬 **Gamification & Neuroscience** - Explored the neuroscience behind gamification strategies by analyzing how dopamine triggers and feedback loops influence customer retention and user loyalty. Bridged concepts from behavioral science, marketing analytics, and AI-driven personalization in B2C ecosystems.
