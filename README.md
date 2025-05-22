@@ -4,7 +4,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 
 - 🎓 Third-year Computer Science student (CGPA: 9.74/10)
 - 🤖 Interests: Data Science, Applied AI, Cloud Systems, Decision Intelligence
-- 🌐 Currently exploring: Explainable AI, Neuro-symbolic Reasoning, AI in Finance & Cybersecurity.
+- 🌐 Currently exploring: Explainable AI, Neuro-symbolic Reasoning, AI in Finance & Optimization.
 
 ---
 
@@ -53,7 +53,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 
 ## 📌 Featured Projects & Work
 
-- 🧠 **AI for Stress Detection** - Built ML/DL models to detect stress from biosignals (ECG, EDA) and text inputs. Published a comprehensive survey on multimodal stress detection techniques.
+- 🧠 **AI for Stress Detection** - Built and analyzed ML and DL models to detect stress from biosignals (ECG, EDA) and text inputs. Published a comprehensive survey on multimodal stress detection techniques.
   📄 *"Unveiling the Mind: A Survey on Stress Detection Using Machine Learning and Deep Learning Techniques"*, International Journal of Pharmaceutical Sciences, May 2025  [Read it here](https://www.doi.org/10.5281/zenodo.15421033)
 - 🔐 **Quantum Threat Detection Framework** - Proposed an AI-based framework to counter quantum-era social engineering threats.Explores cybersecurity risks at the intersection of AI and quantum computing.
 - 💰 **AI x Blockchain in FinTech** - Reviewed how AI integrates with blockchain for B2B embedded finance. Covered intelligent contracts, fraud detection, and decentralized scoring systems.
@@ -98,7 +98,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
    _OSF, Jan 2025_  
    [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5105373)
 
-7. **A Comprehensive Review on Heart Disease Detection Using ML/DL Techniques**  
+7. **A Comprehensive Review on Heart Disease Detection Using ML and DL Techniques**  
    _TechRxiv, Apr 2025_  
    [Preprint](https://doi.org/10.36227/techrxiv.174494889.99688489/v1)
    
@@ -141,8 +141,8 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 🧾 [Resume / Portfolio Website]
-- 📫 Email: 
+- 🧾 Resume:
+- 📫 Email:
 
 ---
 _Thank you for visiting my GitHub! Let's build the future with responsible AI._ 🚀
