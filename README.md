@@ -61,7 +61,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 - 🧾 **NLP for Abuse Detection** - Developed and benchmarked NLP models for toxic content classification. Published results in a peer-reviewed journal with significant performance gains.
   📄 *"A Study on the Performance of NLP-Based Models in Abusive Content Classification"*, IJPREMS, Jan 2025   [Read it here](https://www.doi.org/10.58257/IJPREMS38262)
 - 🌞 **Sunspot Detection Using Deep Learning** – Used CNN architectures to detect and track sunspot regions from solar imagery datasets to support solar weather predictions
-- ❤️ **Heart Attack Detection Using ML/DL** – Built predictive models for early detection of potential heart attacks using clinical and patient data. Benchmarked models using precision, recall, and ROC-AUC.
+- ❤️ **Heart Attack Detection Using ML and DL** – Built predictive models for early detection of potential heart attacks using clinical and patient data. Benchmarked models using precision, recall, and ROC-AUC.
 - 🧠 **Neuro-Symbolic Optimization for Explainable AI** – Proposed a novel research framework combining symbolic reasoning with neural networks to enhance decision transparency in complex systems.
 
 ➡️ Most of these are backed by preprints or published work. I'm always open to new ideas and collaborations!
