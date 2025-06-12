@@ -53,15 +53,23 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 
 ## 📌 Featured Projects & Work
 
-- 🧠 **AI for Stress Detection** - Built and analyzed ML and DL models to detect stress from biosignals (ECG, EDA) and text inputs. Published a comprehensive survey on multimodal stress detection techniques.
+- 🧠 **AI for Stress Detection** - Built and analyzed ML and DL models to detect stress from biosignals (ECG, EDA) and text inputs. Published a comprehensive survey on multimodal stress detection techniques.  
   📄 *"Unveiling the Mind: A Survey on Stress Detection Using Machine Learning and Deep Learning Techniques"*, International Journal of Pharmaceutical Sciences, May 2025  [Read it here](https://www.doi.org/10.5281/zenodo.15421033)
-- 🔐 **Quantum Threat Detection Framework** - Proposed an AI-based framework to counter quantum-era social engineering threats.Explores cybersecurity risks at the intersection of AI and quantum computing.
+
+- 🔐 **Quantum Threat Detection Framework** - Proposed an AI-based framework to counter quantum-era social engineering threats. Explores cybersecurity risks at the intersection of AI and quantum computing.  
+  📄 *"Quantum Social Engineering: A New Threat Paradigm in Cybersecurity"*, International Journal of Media and Networks, Apr 2025  [Read it here](https://www.opastpublishers.com/open-access-articles/quantum-social-engineering-a-new-threat-paradigm-in-cybersecurity.pdf)
+
 - 💰 **AI x Blockchain in FinTech** - Reviewed how AI integrates with blockchain for B2B embedded finance. Covered intelligent contracts, fraud detection, and decentralized scoring systems.
+
 - 🧬 **Gamification & Neuroscience** - Explored the neuroscience behind gamification strategies by analyzing how dopamine triggers and feedback loops influence customer retention and user loyalty. Bridged concepts from behavioral science, marketing analytics, and AI-driven personalization in B2C ecosystems.
-- 🧾 **NLP for Abuse Detection** - Developed and benchmarked NLP models for toxic content classification. Published results in a peer-reviewed journal with significant performance gains.
+
+- 🧾 **NLP for Abuse Detection** - Developed and benchmarked NLP models for toxic content classification. Published results in a peer-reviewed journal with significant performance gains.  
   📄 *"A Study on the Performance of NLP-Based Models in Abusive Content Classification"*, IJPREMS, Jan 2025   [Read it here](https://www.doi.org/10.58257/IJPREMS38262)
+
 - 🌞 **Sunspot Detection Using Deep Learning** – Used CNN architectures to detect and track sunspot regions from solar imagery datasets to support solar weather predictions
+
 - ❤️ **Heart Attack Detection Using ML and DL** – Built predictive models for early detection of potential heart attacks using clinical and patient data. Benchmarked models using precision, recall, and ROC-AUC.
+
 - 🧠 **Neuro-Symbolic Optimization for Explainable AI** – Proposed a novel research framework combining symbolic reasoning with neural networks to enhance decision transparency in complex systems.
 
 ➡️ Most of these are backed by preprints or published work. I'm always open to new ideas and collaborations!
@@ -71,13 +79,19 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 ## 📚 Research & Publications
 
 ### 🟢 Published
+
 1. **A Study on the Performance of NLP-Based Models in Abusive Content Classification**  
    _International Journal of Progressive Research in Engineering and Management, Jan 2025_  
    [PDF](https://www.doi.org/10.58257/IJPREMS38262)
-   
+
 2. **Unveiling the Mind: A Survey on Stress Detection Using Machine Learning and Deep Learning Techniques**  
    _International Journal of Pharmaceutical Sciences, May 2025_  
    [PDF](https://www.doi.org/10.5281/zenodo.15421033)
+
+3. **Quantum Social Engineering: A New Threat Paradigm in Cybersecurity**  
+   _International Journal of Media and Networks, June 2025_  
+   [PDF](https://www.opastpublishers.com/open-access-articles/quantum-social-engineering-a-new-threat-paradigm-in-cybersecurity.pdf)
+
 ---
 
 ### 🔬 Preprints
