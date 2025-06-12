@@ -96,10 +96,6 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 
 ### 🔬 Preprints
 
-3. **Quantum Social Engineering: A New Threat Paradigm in Cybersecurity**  
-   _TechRxiv, Mar 2025_  
-   [Preprint](https://doi.org/10.36227/techrxiv.174363042.22068772/v1)
-
 4. **Neuro-Symbolic Optimization for Explainable AI-Driven Decision-Making in Complex Systems**  
    _TechRxiv, Apr 2025_  
    [Preprint](https://doi.org/10.36227/techrxiv.174431322.29730206/v1)
