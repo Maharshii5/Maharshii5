@@ -57,7 +57,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
   📄 *"Unveiling the Mind: A Survey on Stress Detection Using Machine Learning and Deep Learning Techniques"*, International Journal of Pharmaceutical Sciences, May 2025  [Read it here](https://www.doi.org/10.5281/zenodo.15421033)
 
 - 🔐 **Quantum Threat Detection Framework** - Proposed an AI-based framework to counter quantum-era social engineering threats. Explores cybersecurity risks at the intersection of AI and quantum computing.  
-  📄 *"Quantum Social Engineering: A New Threat Paradigm in Cybersecurity"*, International Journal of Media and Networks, Apr 2025  [Read it here](https://www.opastpublishers.com/open-access-articles/quantum-social-engineering-a-new-threat-paradigm-in-cybersecurity.pdf)
+  📄 *"Quantum Social Engineering: A New Threat Paradigm in Cybersecurity"*, International Journal of Media and Networks, June 2025  [Read it here](https://www.opastpublishers.com/open-access-articles/quantum-social-engineering-a-new-threat-paradigm-in-cybersecurity.pdf)
 
 - 💰 **AI x Blockchain in FinTech** - Reviewed how AI integrates with blockchain for B2B embedded finance. Covered intelligent contracts, fraud detection, and decentralized scoring systems.
 
