@@ -4,7 +4,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 
 - 🎓 Pre Final-year Computer Science student (CGPA: 9.74/10)
 - 🤖 Interests: Data Science, Applied AI, Cloud Systems, Decision Intelligence
-- 🌐 Currently exploring: Explainable AI, Neuro-symbolic Reasoning, AI in Finance & Optimization.
+- 🌐 Currently exploring: Explainable AI, Neuro-symbolic Reasoning, AI in Geoscience & Optimization.
 
 ---
 
