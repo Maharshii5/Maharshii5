@@ -2,7 +2,7 @@
 
 I'm a passionate **AI and Data Science enthusiast** with a strong foundation in Python, machine learning, and cloud technologies. I enjoy building smart systems, solving real-world problems with data, and exploring the intersection of **technology, business, and society**.
 
-- 🎓 Pre Final-year Computer Science student (CGPA: 9.33/10)
+- 🎓 Final-year Computer Science student (CGPA: 9.54/10)
 - 🤖 Interests: Data Science, Applied AI, Cloud Systems, Decision Intelligence
 - 🌐 Currently exploring: Explainable AI, Neuro-symbolic Reasoning, AI in Geoscience & Optimization.
 
