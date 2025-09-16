@@ -131,8 +131,7 @@ I'm a passionate **AI and Data Science enthusiast** with a strong foundation in 
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 🧾 Resume:
-- 📫 Email:
+
 
 ---
 _Thank you for visiting my GitHub! Let's build the future with responsible AI._ 🚀
