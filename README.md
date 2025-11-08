@@ -33,7 +33,7 @@ I'm a passionate **AI and Data Science researcher** with a strong foundation in 
 
 ## 🛰️ Featured Projects & Research Work
 
-- 🛰️ **Deep Learning for Seismic & InSAR Image Analysis (ISRO SAC)** – Developed a hybrid **DenseNet + Vision Transformer** model for pattern detection in seismic interferograms and SAR images. Built a full pipeline for **data preprocessing, model training, and attention visualization**, with tools like **SAR Interferogram Cropper** and **PNGBBox**.  
+- 🛰️ **Deep Learning for Seismic & InSAR Image Analysis (ISRO SAC)** – Developed a hybrid **DenseNet + Vision Transformer** model for pattern detection in seismic interferograms and SAR images. Built a full pipeline for **data preprocessing, model training, and attention visualization**.
   🧩 Focus: Automating ground deformation pattern detection using real SAR data from **COMET-NERC UK**.  
   📍 *Field Deployment*: Research used within SAC’s seismic monitoring workflows.
 
