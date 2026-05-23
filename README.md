@@ -5,7 +5,7 @@ I'm a passionate **AI and Data Science researcher** with a strong foundation in 
 - 🎓 Final-year Computer Science student (CGPA: 9.54/10)
 - 🛰️ Research Intern at **ISRO (SAC)** — Deep Learning for **SAR Image Analysis and Geospatial AI**
 - 🤖 Interests: Explainable AI, Neuro-Symbolic Reasoning, Computer Vision, Decision Intelligence
-- 🌐 Currently exploring: Optimization in AI systems(especially neuro-symbolic)
+- 🌐 Currently exploring: Optimization in AI systems (especially neuro-symbolic)
 
 ---
 
